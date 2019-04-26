@@ -1,7 +1,6 @@
 import csv
 import datetime 
 import time
-
 # dubug
 import pdb
 pdb.set_trace()
